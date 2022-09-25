@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "## Navigate To: * [Description](#description) * [Installation](#installation) * [Usage](#usage) * [Guidelines](#guidelines) * [Demonstration](#demonstration) * [Questions](#questions) * [Credits](#credits)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarawrmas/readme-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarawrmas/readme-generator/issues"
+  },
+  "homepage": "https://github.com/sarawrmas/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.2"
+  }
+}
